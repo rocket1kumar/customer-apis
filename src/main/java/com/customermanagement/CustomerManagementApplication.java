@@ -16,4 +16,5 @@ public class CustomerManagementApplication extends SpringBootServletInitializer{
 	  protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
 	      return builder.sources(CustomerManagementApplication.class);
 	  }
+	
 }
